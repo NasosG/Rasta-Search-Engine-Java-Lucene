@@ -1,0 +1,58 @@
+  title      fpga implementation of a mimo dfe in 40 gbs dqpsk optical
+               links
+  booktitle  23rd european signal processing conference eusipco 2015 nice
+               france august 31  september 4 2015
+  title      adaptive optical technologies for optical transmission systems
+  booktitle  18th panhellenic conference on informatics pci 14 athens greece
+               october 24 2014
+  title      crosslayer routing in clustered optical networks
+  title      performance evaluation of large capacity broadcastandselect optical
+               crossconnects
+  title      evaluation of packet scheduling in hybrid opticalelectrical switch
+  title      routing in medium term optical networks in ict strongest
+  booktitle  2012 future network amp mobile summit berlin germany july
+               46 2012
+  title      routing in dynamic future flexigrid optical networks
+  booktitle  16th international conference on optical network design and modelling
+               ondm 2012 colchester united kingdom april 1720 2012
+  title      converged access network infrastructure based on virtual pons
+  booktitle  2012 international conference on telecommunications and multimedia
+               temu 2012 heraklion crete greece july 30  august 1 2012
+  title      evaluation of optical core networks based on the canon architecture
+  title      statistical traffic multiplexing with service guarantees over optical
+               core networks
+  booktitle  dcnet 2010 amp optics 2010  proceedings of the international
+               conference on data communication networking and international conference
+               on optical communication systems athens greece july 26  28 2010
+               dcnet amp optics are parts of icete  the international
+               joint conference on ebusiness and telecommunications
+  title      integrated design and operation of a transparent optical network
+               a systematic approach to include physical layer awareness and cost
+               function topics in optical communications
+  title      an efficient optical switch architecture with controlled latency for
+               grid networks
+  booktitle  third international conference on networking and services icns
+               2007 june 1925 2007 athens greece
+  title      lowcost itineraries for multihop agents designed for scalable monitoring
+               of multiple subnets
+  title      header extraction and control for an asynchronous optical packet switch
+               based on dpsk decoding
+  title      europeanist programme roadmap for optical communications generated
+               by theoptimist thematic network
+  title      23rd european signal processing conference eusipco 2015 nice
+               france august 31  september 4 2015
+  title      18th panhellenic conference on informatics pci 14 athens greece
+               october 24 2014
+  title      2012 future network amp mobile summit berlin germany july
+               46 2012
+  title      16th international conference on optical network design and modelling
+               ondm 2012 colchester united kingdom april 1720 2012
+  title      2012 international conference on telecommunications and multimedia
+               temu 2012 heraklion crete greece july 30  august 1 2012
+  title      dcnet 2010 amp optics 2010  proceedings of the international
+               conference on data communication networking and international conference
+               on optical communication systems athens greece july 26  28 2010
+               dcnet amp optics are parts of icete  the international
+               joint conference on ebusiness and telecommunications
+  title      third international conference on networking and services icns
+               2007 june 1925 2007 athens greece

@@ -1,0 +1,66 @@
+  title      towards contentbased publishsubscribe for distributed social networks
+  booktitle  proceedings of the 9th acm international conference on distributed
+               eventbased systems debs 15 oslo norway june 29  july 3 2015
+  title      distributed largescale information filtering
+  title      ds4 a distributed social and semantic search system
+  booktitle  advances in information retrieval  35th european conference on ir
+               research ecir 2013 moscow russia march 2427 2013 proceedings
+  title      ds4 introducing semantic friendship in distributed social networks
+  booktitle  on the move to meaningful internet systems otm 2013 conferences
+                confederated international conferences coopis doatrusted cloud
+               and odbase 2013 graz austria september 913 2013 proceedings
+  title      peer rewiring in semantic overlay networks under churn  short paper
+  booktitle  on the move to meaningful internet systems otm 2010  confederated
+               international conferences coopis is doa and odbase hersonissos
+               crete greece october 2529 2010 proceedings part i
+  title      rewiring strategies for semantic overlay networks
+  title      a measure for cluster cohesion in semantic overlay networks
+  booktitle  proceeding of the 2008 acm workshop on largescale distributed systems
+               for information retrieval lsdsir 2008 napa valley california
+               usa october 30 2008
+  title      icluster a selforganizing overlay network for p2p information
+               retrieval
+  booktitle  advances in information retrieval  30th european conference on ir
+               research ecir 2008 glasgow uk march 30april 3 2008 proceedings
+  title      information retrieval and filtering over selforganising digital libraries
+  booktitle  research and advanced technology for digital libraries 12th european
+               conference ecdl 2008 aarhus denmark september 1419 2008 proceedings
+  title      xsimilarity computing semantic similarity between concepts from
+               different ontologies
+  title      fair resource allocation in a simple multiagent setting search algorithms
+               and experimental evaluation
+  title      semantic similarity methods in wordnet and their application to information
+               retrieval on the web
+  booktitle  seventh acm international workshop on web information and data management
+               widm 2005 bremen germany november 4 2005
+  title      data models and languages for agentbased textual information dissemination
+  booktitle  cooperative information agents vi 6th international workshop cia
+               2002 madrid spain september 1820 2002 proceedings
+  title      information alert in distributed digital libraries the models languages
+               and architecture of dias
+  booktitle  research and advanced technology for digital libraries 6th european
+               conference ecdl 2002 rome italy september 1618 2002 proceedings
+  title      proceedings of the 9th acm international conference on distributed
+               eventbased systems debs 15 oslo norway june 29  july 3 2015
+  title      transactions on largescale data and knowledgecentered systems xiii
+  title      advances in information retrieval  35th european conference on ir
+               research ecir 2013 moscow russia march 2427 2013 proceedings
+  title      on the move to meaningful internet systems otm 2013 conferences
+                confederated international conferences coopis doatrusted cloud
+               and odbase 2013 graz austria september 913 2013 proceedings
+  title      on the move to meaningful internet systems otm 2010  confederated
+               international conferences coopis is doa and odbase hersonissos
+               crete greece october 2529 2010 proceedings part i
+  title      proceeding of the 2008 acm workshop on largescale distributed systems
+               for information retrieval lsdsir 2008 napa valley california
+               usa october 30 2008
+  title      advances in information retrieval  30th european conference on ir
+               research ecir 2008 glasgow uk march 30april 3 2008 proceedings
+  title      research and advanced technology for digital libraries 12th european
+               conference ecdl 2008 aarhus denmark september 1419 2008 proceedings
+  title      seventh acm international workshop on web information and data management
+               widm 2005 bremen germany november 4 2005
+  title      cooperative information agents vi 6th international workshop cia
+               2002 madrid spain september 1820 2002 proceedings
+  title      research and advanced technology for digital libraries 6th european
+               conference ecdl 2002 rome italy september 1618 2002 proceedings
