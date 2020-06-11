@@ -1,0 +1,231 @@
+  title     = {efficient {\&} expressive semantic information push for cultural heritage
+               applications},
+  booktitle = {proceedings of the third international workshop on semantic web for
+               cultural heritage co-located with the 15th extended semantic web conference,
+               sw4ch@eswc 2018, heraklion, crete, greece, june 3, 2018.},
+  title     = {query reorganization algorithms for efficient boolean information
+               filtering},
+  title     = {towards publish/subscribe functionality on graphs},
+  booktitle = {proceedings of the workshops of the {edbt/icdt} 2016 joint conference,
+               {edbt/icdt} workshops 2016, bordeaux, france, march 15, 2016.},
+  title     = {full-text support for publish/subscribe ontology systems},
+  booktitle = {the semantic web. latest advances and new domains - 13th international
+               conference, {eswc} 2016, heraklion, crete, greece, may 29 - june 2,
+               2016, proceedings},
+  title     = {r-susceptibility: an ir-centric approach to assessing privacy risks
+               for users in online communities},
+  booktitle = {proceedings of the 39th international {acm} {sigir} conference on
+               research and development in information retrieval, {sigir} 2016, pisa,
+               italy, july 17-21, 2016},
+  title     = {pviz: visualising {p2p} multi-agent simulations},
+  booktitle = {proceedings of the 2015 international conference on autonomous agents
+               and multiagent systems, {aamas} 2015, istanbul, turkey, may 4-8, 2015},
+  title     = {towards content-based publish/subscribe for distributed social networks},
+  booktitle = {proceedings of the 9th {acm} international conference on distributed
+               event-based systems, {debs} '15, oslo, norway, june 29 - july 3, 2015},
+  title     = {constructing subsumption hierarchies of web queries},
+  booktitle = {joint proceedings of the 5th international workshop on using the web
+               in the age of data {(usewod} '15) and the 2nd international workshop
+               on dataset profiling and federated search for linked data {(profiles}
+               '15) co-located with the 12th european semantic web conference {(eswc}
+               2015), portoro{\v{z}}, slovenia, may 31 - june 1, 2015.},
+  title     = {cloud-based data and knowledge management for multi-centre biomedical
+               studies},
+  booktitle = {proceedings of the 8th international conference on knowledge capture,
+               {k-cap} 2015, palisades, ny, usa, october 7-10, 2015},
+  title     = {{secreta:} {a} tool for anonymizing relational, transaction and rt-datasets},
+  booktitle = {medical data privacy handbook},
+  booktitle = {medical data privacy handbook},
+  title     = {distributed large-scale information filtering},
+  title     = {mindmap-inspired semantic personal information management},
+  booktitle = {proceedings of the 17th international conference on extending database
+               technology, {edbt} 2014, athens, greece, march 24-28, 2014.},
+  title     = {{secreta:} {a} system for evaluating and comparing relational and
+               transaction anonymization algorithms},
+  booktitle = {proceedings of the 17th international conference on extending database
+               technology, {edbt} 2014, athens, greece, march 24-28, 2014.},
+  title     = {cloudstudy: {a} cloud-based system for supporting multi-centre studies},
+  booktitle = {13th {ieee} international conference on bioinformatics and bioengineering,
+               {bibe} 2013, chania, greece, november 10-13, 2013},
+  title     = {{ds4:} {a} distributed social and semantic search system},
+  booktitle = {advances in information retrieval - 35th european conference on {ir}
+               research, {ecir} 2013, moscow, russia, march 24-27, 2013. proceedings},
+  title     = {{ds4:} introducing semantic friendship in distributed social networks},
+  booktitle = {on the move to meaningful internet systems: {otm} 2013 conferences
+               - confederated international conferences: coopis, doa-trusted cloud,
+               and {odbase} 2013, graz, austria, september 9-13, 2013. proceedings},
+  title     = {full-text support for publish/subscribe ontology systems},
+  title     = {ontofm: {a} personal ontology-based file manager for the desktop},
+  title     = {pricing information goods in distributed agent-based information filtering},
+  booktitle = {on the move to meaningful internet systems: {otm} 2011 - confederated
+               international conferences: coopis, doa-svi, and {odbase} 2011, hersonissos,
+               crete, greece, october 17-21, 2011, proceedings, part {i}},
+  title     = {rewiring strategies for semantic overlay networks},
+  title     = {information filtering and query indexing for an information retrieval
+               model},
+  title     = {everlast: a distributed architecture for preserving the web},
+  booktitle = {proceedings of the 2009 joint international conference on digital
+               libraries, {jcdl} 2009, austin, tx, usa, june 15-19, 2009},
+  title     = {anonymity and censorship resistance in unstructured overlay networks},
+  booktitle = {on the move to meaningful internet systems: {otm} 2009, confederated
+               international conferences, coopis, doa, is, and {odbase} 2009, vilamoura,
+               portugal, november 1-6, 2009, proceedings, part {i}},
+  title     = {information retrieval and filtering over self-organising digital libraries},
+  booktitle = {research and advanced technology for digital libraries, 12th european
+               conference, {ecdl} 2008, aarhus, denmark, september 14-19, 2008. proceedings},
+  title     = {{p2p} information retrieval and filtering with {maps}},
+  booktitle = {proceedings p2p'08, eighth international conference on peer-to-peer
+               computing, 8-11 september 2008, aachen, germany},
+  title     = {anonymous and censorship resistant content sharing in unstructured
+               overlays},
+  booktitle = {proceedings of the twenty-seventh annual {acm} symposium on principles
+               of distributed computing, {podc} 2008, toronto, canada, august 18-21,
+               2008},
+  title     = {exploiting correlated keywords to improve approximate information
+               filtering},
+  booktitle = {proceedings of the 31st annual international {acm} {sigir} conference
+               on research and development in information retrieval, {sigir} 2008,
+               singapore, july 20-24, 2008},
+  title     = {approximate information filtering in peer-to-peer networks},
+  booktitle = {web information systems engineering - {wise} 2008, 9th international
+               conference, auckland, new zealand, september 1-3, 2008. proceedings},
+  title     = {architectural alternatives for information filtering in structured
+               overlays},
+  title     = {efficient search and approximate information filtering in a distributed
+               peer-to-peer environment of digital libraries},
+  booktitle = {digital libraries: research and development, first international {delos}
+               conference, pisa, italy, february 13-14, 2007, revised selected papers},
+  title     = {minervadl: an architecture for information retrieval and filtering
+               in distributed digital libraries},
+  booktitle = {research and advanced technology for digital libraries, 11th european
+               conference, {ecdl} 2007, budapest, hungary, september 16-21, 2007,
+               proceedings},
+  title     = {logic and computational complexity for boolean information retrieval},
+  title     = {distributed evaluation of continuous equi-join queries over large
+               structured overlay networks},
+  booktitle = {proceedings of the 22nd international conference on data engineering,
+               {icde} 2006, 3-8 april 2006, atlanta, ga, {usa}},
+  title     = {libraring: an architecture for distributed digital libraries based
+               on dhts},
+  booktitle = {research and advanced technology for digital libraries, 9th european
+               conference, {ecdl} 2005, vienna, austria, september 18-23, 2005, proceedings},
+  title     = {publish/subscribe functionality in {ir} environments using structured
+               overlay networks},
+  booktitle = {{sigir} 2005: proceedings of the 28th annual international {acm} {sigir}
+               conference on research and development in information retrieval, salvador,
+               brazil, august 15-19, 2005},
+  title     = {{p2p-diet:} one-time and continuous queries in super-peer networks},
+  booktitle = {advances in database technology - {edbt} 2004, 9th international conference
+               on extending database technology, heraklion, crete, greece, march
+               14-18, 2004, proceedings},
+  title     = {query processing in super-peer networks with languages based on information
+               retrieval: the {p2p-diet} approach},
+  booktitle = {current trends in database technology - {edbt} 2004 workshops, {edbt}
+               2004 workshops phd, datax, pim, p2p{\&}db, and clustweb, heraklion,
+               crete, greece, march 14-18, 2004, revised selected papers},
+  title     = {implementing publish/subscribe systems with languages from information
+               retrieval on top of structured overlay networks},
+  booktitle = {proceedings of the {sigir} workshop on peer-to-peer information retrieval,
+               27th annual international {acm} {sigir} conference, july 29, 2004,
+               sheffield, {uk}},
+  title     = {filtering algorithms for information retrieval models with named attributes
+               and proximity operators},
+  booktitle = {{sigir} 2004: proceedings of the 27th annual international {acm} {sigir}
+               conference on research and development in information retrieval, sheffield,
+               uk, july 25-29, 2004},
+  title     = {{p2p-diet:} an extensible {p2p} service that unifies ad-hoc and continuous
+               querying in super-peer networks},
+  booktitle = {proceedings of the {acm} {sigmod} international conference on management
+               of data, paris, france, june 13-18, 2004},
+  title     = {selective information dissemination in {p2p} networks: problems and
+               solutions},
+  title     = {data models and languages for agent-based textual information dissemination},
+  booktitle = {cooperative information agents vi, 6th international workshop, {cia}
+               2002, madrid, spain, september 18-20, 2002, proceedings},
+  title     = {information alert in distributed digital libraries: the models, languages,
+               and architecture of {dias}},
+  booktitle = {research and advanced technology for digital libraries, 6th european
+               conference, {ecdl} 2002, rome, italy, september 16-18, 2002, proceedings},
+  title     = {proceedings of the third international workshop on semantic web for
+               cultural heritage co-located with the 15th extended semantic web conference,
+               sw4ch@eswc 2018, heraklion, crete, greece, june 3, 2018},
+  title     = {proceedings of the workshops of the {edbt/icdt} 2016 joint conference,
+               {edbt/icdt} workshops 2016, bordeaux, france, march 15, 2016},
+  title     = {the semantic web. latest advances and new domains - 13th international
+               conference, {eswc} 2016, heraklion, crete, greece, may 29 - june 2,
+               2016, proceedings},
+  title     = {proceedings of the 39th international {acm} {sigir} conference on
+               research and development in information retrieval, {sigir} 2016, pisa,
+               italy, july 17-21, 2016},
+  title     = {proceedings of the 2015 international conference on autonomous agents
+               and multiagent systems, {aamas} 2015, istanbul, turkey, may 4-8, 2015},
+  title     = {proceedings of the 9th {acm} international conference on distributed
+               event-based systems, {debs} '15, oslo, norway, june 29 - july 3, 2015},
+  title     = {joint proceedings of the 5th international workshop on using the web
+               in the age of data {(usewod} '15) and the 2nd international workshop
+               on dataset profiling and federated search for linked data {(profiles}
+               '15) co-located with the 12th european semantic web conference {(eswc}
+               2015), portoro{\v{z}}, slovenia, may 31 - june 1, 2015},
+  title     = {proceedings of the 8th international conference on knowledge capture,
+               {k-cap} 2015, palisades, ny, usa, october 7-10, 2015},
+  title     = {medical data privacy handbook},
+  title     = {transactions on large-scale data- and knowledge-centered systems {xiii}},
+  title     = {proceedings of the 17th international conference on extending database
+               technology, {edbt} 2014, athens, greece, march 24-28, 2014},
+  title     = {13th {ieee} international conference on bioinformatics and bioengineering,
+               {bibe} 2013, chania, greece, november 10-13, 2013},
+  title     = {advances in information retrieval - 35th european conference on {ir}
+               research, {ecir} 2013, moscow, russia, march 24-27, 2013. proceedings},
+  title     = {on the move to meaningful internet systems: {otm} 2013 conferences
+               - confederated international conferences: coopis, doa-trusted cloud,
+               and {odbase} 2013, graz, austria, september 9-13, 2013. proceedings},
+  title     = {on the move to meaningful internet systems: {otm} 2011 - confederated
+               international conferences: coopis, doa-svi, and {odbase} 2011, hersonissos,
+               crete, greece, october 17-21, 2011, proceedings, part {i}},
+  title     = {proceedings of the 2009 joint international conference on digital
+               libraries, {jcdl} 2009, austin, tx, usa, june 15-19, 2009},
+  title     = {on the move to meaningful internet systems: {otm} 2009, confederated
+               international conferences, coopis, doa, is, and {odbase} 2009, vilamoura,
+               portugal, november 1-6, 2009, proceedings, part {i}},
+  title     = {research and advanced technology for digital libraries, 12th european
+               conference, {ecdl} 2008, aarhus, denmark, september 14-19, 2008. proceedings},
+  title     = {proceedings p2p'08, eighth international conference on peer-to-peer
+               computing, 8-11 september 2008, aachen, germany},
+  title     = {proceedings of the twenty-seventh annual {acm} symposium on principles
+               of distributed computing, {podc} 2008, toronto, canada, august 18-21,
+               2008},
+  title     = {proceedings of the 31st annual international {acm} {sigir} conference
+               on research and development in information retrieval, {sigir} 2008,
+               singapore, july 20-24, 2008},
+  title     = {web information systems engineering - {wise} 2008, 9th international
+               conference, auckland, new zealand, september 1-3, 2008. proceedings},
+  title     = {digital libraries: research and development, first international {delos}
+               conference, pisa, italy, february 13-14, 2007, revised selected papers},
+  title     = {research and advanced technology for digital libraries, 11th european
+               conference, {ecdl} 2007, budapest, hungary, september 16-21, 2007,
+               proceedings},
+  title     = {proceedings of the 22nd international conference on data engineering,
+               {icde} 2006, 3-8 april 2006, atlanta, ga, {usa}},
+  title     = {research and advanced technology for digital libraries, 9th european
+               conference, {ecdl} 2005, vienna, austria, september 18-23, 2005, proceedings},
+  title     = {{sigir} 2005: proceedings of the 28th annual international {acm} {sigir}
+               conference on research and development in information retrieval, salvador,
+               brazil, august 15-19, 2005},
+  title     = {advances in database technology - {edbt} 2004, 9th international conference
+               on extending database technology, heraklion, crete, greece, march
+               14-18, 2004, proceedings},
+  title     = {current trends in database technology - {edbt} 2004 workshops, {edbt}
+               2004 workshops phd, datax, pim, p2p{\&}db, and clustweb, heraklion,
+               crete, greece, march 14-18, 2004, revised selected papers},
+  title     = {proceedings of the {sigir} workshop on peer-to-peer information retrieval,
+               27th annual international {acm} {sigir} conference, july 29, 2004,
+               sheffield, {uk}},
+  title     = {{sigir} 2004: proceedings of the 27th annual international {acm} {sigir}
+               conference on research and development in information retrieval, sheffield,
+               uk, july 25-29, 2004},
+  title     = {proceedings of the {acm} {sigmod} international conference on management
+               of data, paris, france, june 13-18, 2004},
+  title     = {cooperative information agents vi, 6th international workshop, {cia}
+               2002, madrid, spain, september 18-20, 2002, proceedings},
+  title     = {research and advanced technology for digital libraries, 6th european
+               conference, {ecdl} 2002, rome, italy, september 16-18, 2002, proceedings},
